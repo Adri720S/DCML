@@ -13,11 +13,13 @@
  • Traffic Signs (43 RGB classes, 30x30 pixels)
  
  🔹 Natural Language Processing (NLP):
+ 
  • IMDB Sentiment Analysis
  • BBC News Text Classification
  • Sarcasm Detection
  
  🔹 Time Series & LSTM Forecasting:
+ 
  • Sunspots.csv
  • Daily Max Temperature
  • Electricity usage prediction (Household Power Consumption Dataset) with MAE < 0.055
